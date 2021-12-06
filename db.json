@@ -1,15 +1,19 @@
 {
   "Hrana": ["Deserti", "Brza hrana", "Juhe", "Salate"]
-},
+}
+
 {
   "Deserti": ["Ledeni vjetar", "Mačje oči", "Sacher torta"]
-},
+}
+
 {
   "Brza hrana": ["Hamburger", "Cheeseburger", "Piletina"]
-},
+}
+
 {
   "Juhe": ["Rajčica", "Gljive", "Šparoge"]
-},
+}
+
 {
   "Salate": ["Miješana", "Ceasar"]
 }
